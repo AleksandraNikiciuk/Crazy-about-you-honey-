@@ -84,7 +84,7 @@ function Game() {
 
             document.querySelector("#board").classList.add("invisible");
             document.querySelector("#over").classList.remove("invisible");
-            document.querySelector("#over").innerText = `Game over! Your score: ${this.score}`;
+            document.querySelector("#overText").innerText = `Game over! Your score: ${this.score}`;
 
             return true;
         } else {
