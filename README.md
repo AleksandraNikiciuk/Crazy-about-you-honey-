@@ -3,11 +3,12 @@ Board game, user using keyboard arrows moves the Pooh and colleect Honey barrel 
 Game is object-oriented programming in JavaScript.
 
 ## Tools
-HTML
-CSS
-JS
+* HTML
+* CSS
+* JS
 
 ## Demo
+https://aleksandranikiciuk.github.io/Crazy-about-you-honey-/
 
 ## Previews
 ### Main Page
